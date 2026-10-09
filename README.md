@@ -8,6 +8,8 @@ The E-commerce Analytics & BI Platform helps users convert sales data into meani
 
 This project uses HTML, CSS, and JavaScript to build a responsive frontend dashboard with sample e-commerce data.
 
+https://charankumarreddy1604.github.io/ecommerce-analytics-bi-platform/
+
 ## 🎯 Objectives
 
 * Analyze total sales revenue and orders.
